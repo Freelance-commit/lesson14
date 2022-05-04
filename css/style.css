@@ -60,7 +60,7 @@ img {
 
 .our-promise-to-you {}
 
-.our-promise-to-you__style {
+.our-promise-to-you_style {
 	padding: 110px 0 122px;
 }
 
@@ -254,7 +254,7 @@ img {
 	margin-bottom: 3px;
 }
 
-.number__name {
+.statistics__name {
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.6;
