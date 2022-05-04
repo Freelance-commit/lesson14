@@ -105,6 +105,10 @@ img {
 	flex: 0 0 63px;
 }
 
+.item-our-promise-to-you__photo {
+	width: 100%;
+}
+
 .item-our-promise-to-you__box {}
 
 .item-our-promise-to-you__title {
